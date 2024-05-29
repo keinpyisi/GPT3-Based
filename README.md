@@ -44,7 +44,7 @@ tokenizer.save_pretrained("fine_tuned_gpt_neo_2_7B")
 
 ## Contributors
 
-- [Your Name](https://github.com/keinpyisi)
+- [Kein Pyi Si](https://github.com/keinpyisi)
 
 ## License
 
