@@ -1,5 +1,4 @@
 
-```markdown
 # Fine-Tuned GPT-Neo 2.7B Model
 
 This repository contains code for fine-tuning the GPT-Neo 2.7B model using PyTorch. GPT-Neo is an open-source autoregressive language model developed by EleutherAI, capable of generating human-like text across a variety of tasks.
@@ -26,6 +25,7 @@ This project aims to fine-tune the GPT-Neo 2.7B model on conversational data usi
 
 ```bash
 python train.py
+
 ```
 
 5. Monitor the training process and evaluate the fine-tuned model based on your requirements.
